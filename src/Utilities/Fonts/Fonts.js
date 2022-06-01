@@ -1,0 +1,1 @@
+export const font = 'PT Sans sans-serif'
